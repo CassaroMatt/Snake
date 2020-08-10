@@ -1,2 +1,2 @@
 # Snake
-Snek game using linked lists
+Snek game implementation using linked lists
